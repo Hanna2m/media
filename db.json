@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Mira"
+    },
+    {
+      "name": "Bobby Smitham",
+      "id": 4
+    },
+    {
+      "name": "Ramona Ruecker",
+      "id": 5
+    },
+    {
+      "name": "Vernon Orn",
+      "id": 10
+    },
+    {
+      "name": "Amos Haag PhD",
+      "id": 11
+    },
+    {
+      "name": "Madeline Runolfsdottir",
+      "id": 12
+    },
+    {
+      "name": "Catherine Huel",
+      "id": 13
+    },
+    {
+      "name": "Terence Ullrich",
+      "id": 14
+    },
+    {
+      "name": "Sammy Doyle",
+      "id": 15
+    },
+    {
+      "name": "Lorenzo Walter",
+      "id": 18
+    }
+  ],
+  "albums": [],
+  "photos": []
+}
