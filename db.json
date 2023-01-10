@@ -1,12 +1,8 @@
 {
   "users": [
     {
-      "id": 1,
-      "name": "Mira"
-    },
-    {
-      "name": "Bobby Smitham",
-      "id": 4
+      "name": "Myra",
+      "id": 1
     },
     {
       "name": "Ramona Ruecker",
@@ -39,8 +35,74 @@
     {
       "name": "Lorenzo Walter",
       "id": 18
+    },
+    {
+      "name": "Otis Turner",
+      "id": 19
     }
   ],
-  "albums": [],
-  "photos": []
+  "albums": [
+    {
+      "userId": 10,
+      "title": "Licensed Wooden Shoes",
+      "id": 18
+    },
+    {
+      "userId": 5,
+      "title": "Recycled Bronze Towels",
+      "id": 19
+    },
+    {
+      "userId": 5,
+      "title": "Handcrafted Wooden Bike",
+      "id": 20
+    },
+    {
+      "userId": 1,
+      "title": "Licensed Fresh Gloves",
+      "id": 21
+    },
+    {
+      "userId": 1,
+      "title": "Small Plastic Shoes",
+      "id": 22
+    },
+    {
+      "userId": 1,
+      "title": "Small Cotton Car",
+      "id": 23
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 19,
+      "url": "https://loremflickr.com/150/150/abstract?lock=64566",
+      "id": 1
+    },
+    {
+      "albumId": 19,
+      "url": "https://loremflickr.com/150/150/abstract?lock=80948",
+      "id": 2
+    },
+    {
+      "albumId": 20,
+      "url": "https://loremflickr.com/150/150/abstract?lock=83408",
+      "id": 3
+    },
+    {
+      "albumId": 21,
+      "url": "https://loremflickr.com/150/150/abstract?lock=87653",
+      "id": 6
+    },
+    {
+      "albumId": 21,
+      "url": "https://loremflickr.com/150/150/abstract?lock=72044",
+      "id": 7
+    },
+    {
+      "albumId": 21,
+      "url": "https://loremflickr.com/150/150/abstract?lock=44336",
+      "id": 8
+    }
+  ]
 }
